@@ -1,0 +1,14 @@
+- question: How would you freeze an object in Ruby?
+  answer: freeze
+
+- question: The three levels of access control for Ruby methods are Public, Protected and ...?
+  answer: Private
+
+- question: How do you define a new method in Ruby?
+  answer: def
+
+- question: File in where the values are limited by coma?
+  answer: CSV
+
+- question: Make a second name for a variable method?
+  answer: alias
